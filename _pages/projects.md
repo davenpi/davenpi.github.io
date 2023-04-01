@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: Some research projects I worked on in the last few years.
 nav: true
