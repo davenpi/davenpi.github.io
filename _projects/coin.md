@@ -3,7 +3,7 @@ layout: page
 title: The rolling coin/Cyr wheel 
 description: Path tracking with shape change
 img: assets/img/rolling_coin.jpeg
-importance: 3
+importance: 2
 category: work
 ---
 
