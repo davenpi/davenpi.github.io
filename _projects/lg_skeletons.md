@@ -3,7 +3,7 @@ layout: page
 title: Classifying Quantum Field Theories
 description: A math problem from a former time
 img: assets/img/lg_skeletons.png
-importance: 3
+importance: 2
 category: work
 ---
 
