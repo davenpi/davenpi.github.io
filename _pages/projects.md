@@ -1,14 +1,14 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: Some projects I worked on in the last few years.
+description: Some research projects I worked on in the last few years.
 nav: true
 nav_order: 2
 display_categories:
 horizontal: false
 ---
-
+Publication forthcoming ;)
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
