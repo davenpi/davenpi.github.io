@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: The snake project
+description: Video analysis and mathematical modeling of snakes.
+img: assets/img/70_cm_time_lapse.png
 importance: 1
 category: work
 ---
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: The snake project.
     img: /assets/img/12.jpg
     ---
 
