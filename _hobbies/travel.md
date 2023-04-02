@@ -16,6 +16,7 @@ I've traveled mostly in Europe and around the US. In Europe I've been to
  - Germany
  - Switzerland
  - Italy
+ - Austria
  - Netherlands. 
 
 Sadly I can't find most of the pictures I have from those trips but here's me looking confused near a cliff in Sagres, Portugal.
@@ -38,10 +39,11 @@ And it's cheap once you have a tent.
 
 Also I've seen parts of Canada (Vancouver and Montreal)
 
-{% include figure.html path="assets/img/montrealwater.jpeg" title="Montreal" class="img-fluid rounded z-depth-1" %}
-
 Here's me with le cowboy squelette
 
-{% include figure.html path="assets/img/montrealcowboy.jpeg" title="Montreal" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/montreal_water.jpeg" title="Montreal" class="img-fluid rounded z-depth-1" %}
+
+
+{% include figure.html path="assets/img/montreal_cowboy.jpeg" title="Montreal cowboy" class="img-fluid rounded z-depth-1" %}
 
 Reach out if you have any travel recs!
