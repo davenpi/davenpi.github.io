@@ -46,7 +46,6 @@ Here are some books/essays I enjoyed. Some of these I read a long time ago so my
 - 1984
 - Les Miserables
 - Man's Search for meaning
-- Amusing ourselves to death
 - 100 Years of Solitude
 - How to Build a Car by Adrian Newey
 - Jesus' Son by Denis Johnson

@@ -2,24 +2,20 @@
 layout: page
 title: misc
 description: everything else
-img: assets/img/cooking.jpeg
+img: assets/img/poker.jpeg
 importance: 3
 category: work
 ---
 
 Then there is everything else. Here's a few.
 
-Cooking is great, particularly with others. A new recipe I like is Risotto. 
+Cooking is great. Particularly with others. A new recipe I like is Risotto. 
 
 {% include figure.html path="assets/img/risotto.jpeg" title="Risotto" class="img-fluid rounded z-depth-1" %}
 
 I'm trying to explore new kinds of music so I recently went to the Boston Symphony Orchestra.
 
 {% include figure.html path="assets/img/bso.jpeg" title="BSO" class="img-fluid rounded z-depth-1" %}
-
-Poker
-
-{% include figure.html path="assets/img/poker.jpeg" title="Poker" class="img-fluid rounded z-depth-1" %}
 
 I love movies. Harvard has a Film Archive where they show classic films. I saw Amarcord by Fellini there and really enjoyed it.
 As a result I am much more willing to try old movies than I was before.

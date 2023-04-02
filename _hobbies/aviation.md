@@ -13,4 +13,4 @@ I'm working on my Private Pilot's License. My first solo was March 27, 2023. As 
 
 Flying is insane and great. I hope to get my license around June and go on as
 many trips as I can with family and friends. Reach out if you're interested
-in aviation or are a pilot yourself! Tips on getting cheap flight time and great places to fly much appreciated.
+in aviation or are a pilot yourself!
