@@ -11,8 +11,8 @@ related_posts:
 Here are some books/essays I enjoyed. Some of these I read a long time ago so my memory is hazy.
 
 - Mountains Beyond Mountains 
-- The art of doing science and engineering
-- Losing my virginity
+- The art of doing science and engineering by Richard Hamming
+- Losing my virginity by Richard Branson
 - Genentech
 - Scar Tissue by Anthony Kiedis
 - My Brilliant Friend by Ferrante
@@ -33,7 +33,7 @@ Here are some books/essays I enjoyed. Some of these I read a long time ago so my
 - Benjamin Franklin by Isaacson
 - Amusing ourselves to death
 - Titan by Chernow
-- The Mind Body Problem
+- The Mind-Body Problem by Goldstein
 - Steve Jobs by Isaacson
 - Elon Musk by Vance
 - Very Important People by Mears
