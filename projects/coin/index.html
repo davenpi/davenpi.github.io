@@ -128,7 +128,34 @@
           </header>
 
           <article>
-            <p>We were inspired by observations of people on a cyr wheel. We thought it would be interesting to see how change of moment of inertia could allow us to control the path that a coin follows.</p>
+            <h2 id="the-project">The project</h2>
+
+<p>The <a href="https://en.wikipedia.org/wiki/Cyr_wheel" rel="external nofollow noopener" target="_blank">Cyr Wheel</a> is a big wheel that acrobats get inside and do complicated tricks.
+Observations of acrobats in cyr wheels made us interested how difficult it is and how we might model the system from a
+physical point of view.</p>
+
+<p>To study the question we need to do three things.</p>
+
+<h3 id="1-create-a-physical-model">1. Create a physical model</h3>
+<p>We need a set of equations describing the cyr and the forces exerted on it. 
+That’s the physics/dynamical system part. We got the physical model from <a href="https://rotations.berkeley.edu/the-rolling-disk/" rel="external nofollow noopener" target="_blank">well known models</a> 
+of rolling coins. We approximate the cyr wheel + acrobat as a rolling coin. I will present and describe the equations in more detail within the next few days.</p>
+
+<h3 id="2-define-what-we-can-control-and-the-performance-objectives">2. Define what we can control and the performance objectives</h3>
+<p>Given the equations, what is it that we can control which corresponds to the acrobat moving around inside the wheel? We presume that
+the athlete moves their body around so that the wheel becomes easier/harder to rotate in different directions. In other words we presume
+that the athele inside the cyr wheel is effecitively changing the system’s moment of inertia. Given the control, how can we change the
+control over time so that the wheel follows a prescribed track along the ground?</p>
+
+<h3 id="3-simulate-and-analyze-results">3. Simulate and analyze results</h3>
+<p>The equations which describe the wheel are too complicated to solve by hand. As a result we need to write software which
+simulates the system. Once we have the physics simulated we need to combine that with optimization software to
+develop control strategies which solve our task in the best way possible.</p>
+
+<h2 id="current-status">Current status</h2>
+
+<p>The problem is formulated and we are working on getting the simulations set up. Expect to have the paper out before the end of May.</p>
+
 
           </article>
 

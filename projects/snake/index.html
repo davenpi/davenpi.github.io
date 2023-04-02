@@ -128,8 +128,54 @@
           </header>
 
           <article>
-            <p>Describe the formulation and the work I did on this problem. In particular highlight the image analysis
-software that I wrote and describe the mathematical modeling that we are doing.</p>
+            <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/70cm_time_lapse-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/70cm_time_lapse-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/70cm_time_lapse-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/70cm_time_lapse.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Snake" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+<h2 id="the-project">The project</h2>
+
+<p>We have a collaborator, <a href="https://www.artsci.uc.edu/departments/biology/fac-staff/jayne.html" rel="external nofollow noopener" target="_blank">Dr. Bruce Jayne</a>,
+who is very interested in snake locomotion. Bruce took some videos of snakes bridging vertical gaps like the one
+pictured above and we advisor wondered if we could study the stability of the snakes from a mathematical/physics point of view. To
+accomplish the task we wanted to first develop a quantitative understanding of the data, then develop a physical model of the snake, 
+and then use the physical model to understand the stability properties of the snakes as they do their climbing tasks.</p>
+
+<h3 id="quantitative-understanding-of-the-data">Quantitative understanding of the data</h3>
+
+<p>The data for this project is several dozen videos of snakes bridging gaps like the one in the picture above. We wanted
+to extract the curvature along the snake as it progresses across the gap. In order
+to do this I had to convert the videos into a sequence of images and then develop some image analysis software. This software
+detects where the snake is in the image, finds it’s front, and then calculates the curvature along the entire snake. I had 
+never done something like that before and it was a fun challenge to figure that out.</p>
+
+<h3 id="physical-model">Physical model</h3>
+
+<p>We decided to model the snake as an elastic filament and include the effect of it’s muscles by adding in some extra
+parameters to the typical equations of elasticity theory. In particular, we added in an active bending moment to 
+supplement the tradition bending moment that filaments/rods create due to their stiffness. I will describe this part of the work
+in more detail in the coming days.</p>
+
+<h3 id="understanding-stability-using-the-model">Understanding stability using the model</h3>
+
+<p>We use the model to formulate the following control theory question. What is the minimal amount of work the snake
+must do to reach a given height?</p>
+
+<h2 id="current-progress">Current Progress</h2>
+
+<p>I finished the data analysis and am working through the control theory portion of the project. The heavy lift is over and the
+aim is to have this paper out by May.</p>
 
           </article>
 
