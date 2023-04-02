@@ -48,7 +48,7 @@ Also start some kind of scholarship to help young people discover new possibilit
 
 - **Current Progress**: On the scholarship front I have a plan to set aside $10k 
 to help a young person (who couldn't afford it otherwise) get started in aviation. I think that would be 
-meaningful and be a good initial step in making all of this real. 
+meaningful and a good initial step in making all of this real. 
 
 
 - **Major obstacles**: Courage. Understanding myself and what the best path through 
@@ -59,7 +59,7 @@ all of this is for me. Maintaining a high bar on work ethic and clarity of thoug
 My own thing/a thing I own a big piece of (Before 2025). The whole shebang (Hard to estimate. Before 2035).
 
 ## Become an Earthrounder
-[Earthrounders](https://www.earthrounders.com/are_you_one.php) are a group of pilots who have flown all the way around the 
+[Earthrounders](https://www.earthrounders.com/index.php) are a group of pilots who have flown all the way around the 
 world in a light aircraft.
 
 - **Current Progress**: Have had first solo flight. I do also have a pilot friend who says he
