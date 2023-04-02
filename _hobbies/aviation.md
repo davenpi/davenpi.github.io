@@ -5,7 +5,6 @@ description: Flying
 img: assets/img/cockpit.jpg
 importance: 2
 category: work
-horizontal: false
 ---
 
 I'm working on my Private Pilot's License. My first solo was March 27, 2023. As of this writing I have about 30 hours of flying time. 40 is the minimum to get the license. 

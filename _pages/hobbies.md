@@ -22,7 +22,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include hobbies_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
