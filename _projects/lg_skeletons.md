@@ -13,7 +13,7 @@ things like electrons and light and the fundamental forces of nature are best de
 We even built huge [particle accelerators](https://en.wikipedia.org/wiki/CERN) deep underground in Switzerland to 
 test the predictions of the theory. It's incredibly accurate as a theory of nature. 
 
-I was very lucky to meet a great physicist and [mentor, Dr. Ilarion Melnikov,](https://www.jmu.edu/physics/people/all-people/melnikov-ilarion.shtml) 
+I was very lucky to meet a great physicist and mentor, [Dr. Ilarion Melnikov](https://www.jmu.edu/physics/people/all-people/melnikov-ilarion.shtml), 
 in my undergraduate days who helped me learn a lot about the quantum world and what it's like to do research in it. 
 We even worked on a project together and published the results. 
 

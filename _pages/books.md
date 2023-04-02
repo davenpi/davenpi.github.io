@@ -12,7 +12,7 @@ related_posts:
 
 Here are some books/essays I enjoyed.
 
-- Mountains Beyond Mountains 
+- Mountains Beyond Mountains by Tracy Kidder
 - The art of doing science and engineering by Richard Hamming
 - Losing my virginity by Richard Branson
 - Genentech by Hughes
@@ -39,11 +39,10 @@ Here are some books/essays I enjoyed.
 - Steve Jobs by Isaacson
 - Elon Musk by Vance
 - Very Important People by Mears
-- Born to Run
+- Born to Run by McDougall
 - Self Reliance by Emerson
-- Fat City book
-- For Whom the Bell Tolls
-- 1984
+- For Whom the Bell Tolls by Hemingway
+- 1984 by Orwell
 - Les Miserables
 - Man's Search for meaning
 - 100 Years of Solitude
