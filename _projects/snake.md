@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The snake project
-description: Video analysis and mathematical modeling of snakes.
+description: video analysis and mathematical modeling of snakes
 img: assets/img/70cm_time_lapse.png
 importance: 1
 category: work

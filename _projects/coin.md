@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The rolling coin/Cyr wheel 
-description: Path tracking with shape change
+description: path tracking with a rolling coin
 img: assets/img/rolling_coin.jpeg
 importance: 2
 category: work
@@ -35,5 +35,5 @@ develop control strategies which solve our task in the best way possible.
 
 ## Current status
 
-The problem is formulated and we are working on getting the simulations set up. Expect to have the paper out before the end of May.
+The problem is formulated and we are working on getting the simulations set up. Expectg to have the paper out before the end of May.
 

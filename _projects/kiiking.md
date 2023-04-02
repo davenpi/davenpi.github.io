@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kiiking
-description: Modeling and analyzing videos of an Estonian pasttime
+description: modeling an Estonian pasttime
 img: assets/img/Kiiking.jpeg
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The glider
-description: Modelling shape change during unpowered flight.
+description: modelling shape change during unpowered flight
 img: assets/img/GliderForces.png
 importance: 1
 category: work
