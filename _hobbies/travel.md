@@ -19,13 +19,20 @@ I've traveled mostly in Europe and around the US. In Europe I've been to
  - Austria
  - Netherlands. 
 
-Sadly I can't find most of the pictures I have from those trips but here's me looking confused near a cliff in Sagres, Portugal.
+Sadly I can't find most of the pictures I have from those trips but here's me struggling up a mountain in Switzerland
+
+{% include figure.html path="assets/img/switzerland.JPG" title="Swiss mountain" class="img-fluid rounded z-depth-1" %}
+
+
+and me looking confused near a cliff in Sagres, Portugal.
 
 
 {% include figure.html path="assets/img/sagres.JPG" title="Sagres promontory" class="img-fluid rounded z-depth-1" %}
 
+I like to visit the cities in Europe and just walk around all day. I just so happen to have two pictures of me looking exasperated in the outdoors.
 
-Most of those were only for a few days at a time but I've spent fairly sizable periods of time in Berlin, Germany and Genoa, Italy.
+
+Most of those trips were only for a few days at a time but I've spent fairly sizable periods of time in Berlin, Germany and Genoa, Italy.
 All things considered Berlin is the coolest city I've been in (pretty, dynamic, green, historic, easy for English speakers, accessible, etc). 
 I recommend it.
 
