@@ -19,7 +19,7 @@ I've traveled mostly in Europe and around the US. In Europe I've been to
  - Austria
  - Netherlands
 
-I can't find most of the pictures I have from those trips, but here's me struggling up a mountain in Switzerland
+I can't find most of the pictures I have from those trips, but here's me struggling up a mountain in Switzerland (possibly Austtria)
 
 {% include figure.html path="assets/img/switzerland.JPG" title="Swiss mountain" class="img-fluid rounded z-depth-1" %}
 
@@ -49,7 +49,7 @@ And it's cheap once you have a tent.
 
 I've also been to parts of Canada (Vancouver and Montreal)
 
-Here's me with le cowboy squelette.
+Here's me with le cowboy squelette
 
 {% include figure.html path="assets/img/montreal_water.jpeg" title="Montreal" class="img-fluid rounded z-depth-1" %}
 
