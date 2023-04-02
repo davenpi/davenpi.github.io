@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://davenpi.github.io/hobbies/kiiking/</loc>
+<lastmod>2023-04-02T00:50:40+00:00</lastmod>
+</url>
+<url>
 <loc>https://davenpi.github.io/news/announcement_1/</loc>
 <lastmod>2023-04-01T00:00:00+00:00</lastmod>
 </url>
@@ -54,23 +58,23 @@
 </url>
 <url>
 <loc>https://davenpi.github.io/projects/coin/</loc>
-<lastmod>2023-04-02T00:44:01+00:00</lastmod>
+<lastmod>2023-04-02T00:50:40+00:00</lastmod>
 </url>
 <url>
 <loc>https://davenpi.github.io/projects/glider/</loc>
-<lastmod>2023-04-02T00:44:01+00:00</lastmod>
+<lastmod>2023-04-02T00:50:40+00:00</lastmod>
 </url>
 <url>
 <loc>https://davenpi.github.io/projects/kiiking/</loc>
-<lastmod>2023-04-02T00:44:01+00:00</lastmod>
+<lastmod>2023-04-02T00:50:40+00:00</lastmod>
 </url>
 <url>
 <loc>https://davenpi.github.io/projects/lg_skeletons/</loc>
-<lastmod>2023-04-02T00:44:01+00:00</lastmod>
+<lastmod>2023-04-02T00:50:40+00:00</lastmod>
 </url>
 <url>
 <loc>https://davenpi.github.io/projects/snake/</loc>
-<lastmod>2023-04-02T00:44:01+00:00</lastmod>
+<lastmod>2023-04-02T00:50:40+00:00</lastmod>
 </url>
 <url>
 <loc>https://davenpi.github.io/</loc>
