@@ -20,5 +20,5 @@ Hi! I'm Ian. I'm currently living in the Boston area and finishing up my Physics
 I grew up in a small town in Virginia and did my Bachelor's at James Madison University. I started
 out as a business major and ended up doing a Physics PhD. Life's weird. 
 Now it's time to return to the business world and use the skills I've developed to try 
-and do something great. More on that to come. Check out some of my [research](/davenpi.github.io/research), [hobbies](/davenpi.github.io/hobbies),
-and [goals](/davenpi.github.io/dreams) and reach out if you see anything interesting!
+and do something great. More on that to come. Check out some of my [research](/research/), [hobbies](/hobbies/),
+and [goals](/dreams/) and reach out if you see anything interesting!
