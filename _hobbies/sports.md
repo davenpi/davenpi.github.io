@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sports
-description: All kinds of sports
+description: all kinds of sports
 img: assets/img/waterski.png
 importance: 2
 category: work
