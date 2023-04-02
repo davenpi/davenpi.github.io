@@ -25,7 +25,7 @@ I do theoretical work so there's no need to build anything yet. To study the que
 
 ### 1. Create a physical model
 We need a set of equations describing the glider and the forces exerted on it by gravity and the fluid it's moving in. 
-That's the physics part (the dynamical system part). I got the physical model from previous work my advisor did on the [evolution of flight](https://softmath.seas.harvard.edu/publication/planar-controlled-gliding-tumbling-and-descent/). 
+That's the physics/dynamical system part. I got the physical model from previous work my advisor did on the [evolution of flight](https://softmath.seas.harvard.edu/publication/planar-controlled-gliding-tumbling-and-descent/). 
 I will present and describe the equations in more detail within the next few days. Take a look at the referenced paper if you are eager 
 to know more.  
 
@@ -37,7 +37,8 @@ Some mixture of the two? This part of the problem is what I refer to as the cont
 ### 3. Simulate and analyze results
 The equations which describe the glider are too complicated to solve by hand. As a result we need to write software which
 simulates the system. Once we have the physics simulated we need to combine that with optimization software to
-develop control strategies which solve our task in the best way possible.
+develop control strategies which solve our task in the best way possible. The software for the project is available on my 
+[github](https://github.com/davenpi/glider).
 
 ## Current status
 

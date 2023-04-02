@@ -35,7 +35,7 @@ if you've done any of these or want to try together.
     - **Timeline**: Spring/Summer 2024
 
 ## How I make a living
-- [ ] Be a part of building something meaningful and useful. Ideally making a lot of money in the process. Use the proceeds to fund
+- [ ] Help build something meaningful and useful. Ideally making a lot of money in the process. Use the proceeds to fund
 my adventures and start an investment company (sort of a mix between Venture Capital and the Simons Foundation). Also start some kind
 of scholarship to help young people discover new possibilities.  
     - **Current Progress**: To be frank I'm basically all potential at this point. I've never had a job for more than a few months or 
@@ -48,7 +48,7 @@ of scholarship to help young people discover new possibilities.
     - **Timeline**: Join a startup or other group working on something meaningful (Spring/Summer 2023). Aviation scholarship (Winter 2023). 
     My own thing/a thing I own a big piece of (Before 2025). The whole shebang (Hard to estimate. Before 2035).
 
-## Insanity
+## More adventure
 - [ ] Become an [earthrounder](https://www.earthrounders.com/are_you_one.php). Earthrounders are a group of
 pilots who have flown all the way around the world in a light aircraft.
     - **Current Progress**: Have had first solo flight. I do also have a pilot friend who says he

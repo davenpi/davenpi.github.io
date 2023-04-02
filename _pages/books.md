@@ -10,12 +10,12 @@ categories:
 related_posts: 
 ---
 
-Here are some books/essays I enjoyed. Some of these I read a long time ago so my memory is hazy.
+Here are some books/essays I enjoyed.
 
 - Mountains Beyond Mountains 
 - The art of doing science and engineering by Richard Hamming
 - Losing my virginity by Richard Branson
-- Genentech
+- Genentech by Hughes
 - Scar Tissue by Anthony Kiedis
 - My Brilliant Friend by Ferrante
 - Fear and Clothing by Cintra Wilson
