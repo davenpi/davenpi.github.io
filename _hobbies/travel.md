@@ -44,12 +44,14 @@ And it's cheap once you have a tent.
 
 {% include figure.html path="assets/img/bryce.jpeg" title="Bryce Canyon" class="img-fluid rounded z-depth-1" %}
 
-Also I've seen parts of Canada (Vancouver and Montreal)
+{% include figure.html path="assets/img/camp.JPG" title="Camping in a National Park. It was cold that morning." class="img-fluid rounded z-depth-1" %}
 
-Here's me with le cowboy squelette
+
+I've also been to parts of Canada (Vancouver and Montreal)
+
+Here's me with le cowboy squelette.
 
 {% include figure.html path="assets/img/montreal_water.jpeg" title="Montreal" class="img-fluid rounded z-depth-1" %}
-
 
 {% include figure.html path="assets/img/montreal_cowboy.jpeg" title="Montreal cowboy" class="img-fluid rounded z-depth-1" %}
 
