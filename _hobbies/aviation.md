@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aviation
-description: Flying
+description: flying airplanes
 img: assets/img/cockpit.jpg
 importance: 2
 category: work

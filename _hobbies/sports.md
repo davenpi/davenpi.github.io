@@ -11,6 +11,6 @@ Sports are a long running passion of mine. Playing and watching. I'm best at bas
 
 {% include figure.html path="assets/img/tripyramid.jpg" title="Tripyramid" class="img-fluid rounded z-depth-1" %}
 
-Sadly I'm committed to the Washington Commanders. The upshot is them being so bad helped me stop wasting so much time watching football. I'd love to go to the major events in most sports(world cup, wimbledon, nba finals, f1 race, etc). It'd be a fun way to travel.
+Sadly I'm committed to the Washington Commanders. The upshot is them being so bad helped me stop wasting so much time watching football. I'd love to go to the major events in most sports (world cup, wimbledon, nba finals, f1 race, etc). It'd be a fun way to travel.
 
 Reach out if you want to go to a game, play some hoops, squash, or whatever. I'm very confident in my jump shot so I will wager on a game of horse.
