@@ -2,7 +2,7 @@
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if hobby.redirect -%}
-  <a href="{{ project.redirect }}">
+  <a href="{{ hobby.redirect }}">
     {%- else -%}
     <a href="{{ hobby.url | relative_url }}">
       {%- endif %}
@@ -19,7 +19,7 @@
             {%- if hobby.github -%}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
+                <a href="{{ hobby.github }}"><i class="fab fa-github gh-icon"></i></a>
               </div>
               {%- if hobby.github_stars -%}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
