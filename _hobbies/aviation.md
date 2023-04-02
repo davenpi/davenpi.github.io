@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aviation
-description: Modeling and analyzing videos of an Estonian pasttime
+description: Flying
 img: assets/img/cockpit.jpg
 importance: 2
 category: work
