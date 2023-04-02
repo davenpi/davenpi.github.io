@@ -3,7 +3,6 @@ layout: page
 title: books
 permalink: /books/
 nav: True
-nav_order: 2
 description: some books I like
 tags: 
 categories: 
