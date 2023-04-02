@@ -4,7 +4,7 @@ title: hobbies
 permalink: /hobbies/
 description: Some things I like to do.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories:
 horizontal: false
 ---
@@ -42,7 +42,6 @@ horizontal: false
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-      <h2> HI. I am inside the hobbies md file</h2>
     {%- for project in sorted_hobbies -%}
       {% include projects_horizontal.html %}
     {%- endfor %}

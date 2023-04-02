@@ -10,8 +10,6 @@ category: work
 Then there is everything else. 
 {% include figure.html path="assets/img/poker.jpeg" title="Poker" class="img-fluid rounded z-depth-1" %}
 
-Here's a few.
-
 Cooking is great. Particularly with others. A new recipe I like is Risotto. 
 
 {% include figure.html path="assets/img/risotto.jpeg" title="Risotto" class="img-fluid rounded z-depth-1" %}

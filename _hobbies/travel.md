@@ -24,7 +24,7 @@ I can't find most of the pictures I have from those trips, but here's me struggl
 {% include figure.html path="assets/img/switzerland.JPG" title="Swiss mountain" class="img-fluid rounded z-depth-1" %}
 
 
-and me looking confused near a cliff in Sagres, Portugal.
+and me looking confused at Tonel Beach in Sagres, Portugal.
 
 
 {% include figure.html path="assets/img/sagres.JPG" title="Sagres promontory" class="img-fluid rounded z-depth-1" %}

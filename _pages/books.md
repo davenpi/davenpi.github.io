@@ -27,11 +27,11 @@ Here are some books/essays I enjoyed. Some of these I read a long time ago so my
 - Hilbilly Elegy by J.D Vance
 - Travel Team by Mike Lupica
 - Poor Charlie's Almanack
-- Open by Aggassi
-- Born a Crime
-- Educated
-- Dune (just the first one)
-- The Courage to be Disliked
+- Open by Andre Aggassi
+- Born a Crime by Trevor Noah
+- Educated by Tara Westover
+- Dune by Frank Herbert
+- The courage to be disliked
 - Benjamin Franklin by Isaacson
 - Amusing ourselves to death
 - Titan by Chernow
