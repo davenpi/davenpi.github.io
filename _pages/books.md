@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: books
-date: 2023-04-02
-description: some books I enjoyed
+permalink: /books
+description: some books I like
 tags: 
 categories: 
 related_posts: 
