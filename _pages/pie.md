@@ -52,7 +52,7 @@ meaningful and a good initial step in making all of this real.
 
 
 - **Major obstacles**: Courage. Understanding myself and what the best path through 
-all of this is for me. Maintaining a high bar on work ethic and clarity of thought.
+all of this is for me. Etc.
 
 
 - **Timeline**: Join a startup or other group working on something meaningful (Spring/Summer 2023). Aviation scholarship (Winter 2023). 
