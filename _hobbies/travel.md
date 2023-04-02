@@ -49,7 +49,7 @@ And it's cheap once you have a tent.
 
 I've also been to parts of Canada (Vancouver and Montreal)
 
-Here's me with le cowboy squelette
+Here's me in Montreal with le cowboy squelette
 
 {% include figure.html path="assets/img/montreal_water.jpeg" title="Montreal" class="img-fluid rounded z-depth-1" %}
 
