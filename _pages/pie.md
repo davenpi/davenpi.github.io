@@ -42,8 +42,8 @@ are problably others as well. I need to do more cardio and make a plan. Also fin
 
 - **Timeline**: Spring/Summer 2024
 
-## Help build something meaningful and useful. Ideally making a lot of money in the process (I do have a number in my mind) 
-Use the proceeds to fund my adventures and start an investment company (sort of a mix between Venture Capital and the Simons Foundation). 
+## Help build something meaningful and useful. Ideally making a lot of money in the process
+I do have a number in mind. I'll use the proceeds to fund my adventures and start an investment company (sort of a mix between Venture Capital and the Simons Foundation). 
 Also start some kind of scholarship to help young people discover new possibilities.  
 
 - **Current Progress**: On the scholarship front I have a plan to set aside $10k 
@@ -62,7 +62,7 @@ My own thing/a thing I own a big piece of (Before 2025). The whole shebang (Hard
 [Earthrounders](https://www.earthrounders.com/index.php) are a group of pilots who have flown all the way around the 
 world in a light aircraft.
 
-- **Current Progress**: Have had first solo flight. I do also have a pilot friend who says he
+- **Current Progress**: Have solo'd twice. I have a pilot friend who says he
 is willing to do it together.
 
 
