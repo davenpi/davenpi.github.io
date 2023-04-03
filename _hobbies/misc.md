@@ -24,4 +24,4 @@ As a result I am much more willing to try old movies than I was before.
 Dancing is fun. I'm still a shy and somewhat reserved dancer but I'm getting better! 
 Bachata/salsa social dance nights at Havana night club in Cambridge are a good time.
 
-What else should I try? Reach out!
+What else should I try?
