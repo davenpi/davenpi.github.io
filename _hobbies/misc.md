@@ -13,8 +13,15 @@ Poker is a fun occasionally. I have played in Vegas. I'm not great and I play re
 This picture is not that.
 {% include figure.html path="assets/img/poker.jpeg" title="Poker" class="img-fluid rounded z-depth-1" %}
 
-Cooking is great. Particularly with others. A new recipe I like is Risotto. 
+Cooking is great. Particularly with others. One trick is to get your friends to do most of the cooking ;)
 
+Here's a bunch of Persian food. My friend Sepehr did most of the cooking.
+{% include figure.html path="assets/img/feast.jpeg" title="Persian" class="img-fluid rounded z-depth-1" %}
+
+Some almost authentic rice Pilaf thanks to my friend Isa.
+{% include figure.html path="assets/img/pilaf.jpeg" title="Pilaf" class="img-fluid rounded z-depth-1" %}
+
+I made the risotto
 {% include figure.html path="assets/img/risotto.jpeg" title="Risotto" class="img-fluid rounded z-depth-1" %}
 
 I'm trying to explore new kinds of music so I recently went to the Boston Symphony Orchestra.
