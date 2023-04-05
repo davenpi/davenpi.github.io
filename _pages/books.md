@@ -13,6 +13,7 @@ related_posts:
 Here are some books/essays I enjoyed.
 
 - Mountains Beyond Mountains by Tracy Kidder
+- The Visual Display of Quantitative Information by Edward Tufte
 - The art of doing science and engineering by Richard Hamming
 - Losing my virginity by Richard Branson
 - Genentech by Hughes
