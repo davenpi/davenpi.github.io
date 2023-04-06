@@ -29,19 +29,22 @@ related to producing results (e.g. writing a thesis).
 
 - **Timeline**: Kiiking paper (before Apr 15). Glider paper (before Apr 25). Snake paper (before May). Coin paper (end of May).
 
-## Bike all of [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) in a day
+## Bike [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm), from Dickey Ridge Visitor Center onwards, in a day
 
-- **Current Progress**: I've biked about 1/10 of it so far. I think this is doable in the near term i.e. within a year or so.
+- **Current Progress**: I've biked about 1/10 of it so far. I think this is doable in the near term i.e. within a year or so. Starting
+at Dickey Ridge makes the trip much easier and more beautiful. The first few miles before that have no views and are a treacherous
+climb.
 
 
-- **Major obstacles**: About 11,000 feet of elevation gain. I really don't know what that will feel like.
+- **Major obstacles**: About 9,000 feet of elevation gain. I really don't know what that will feel like.
 
 
 - **Timeline**: Spring/Summer 2024
 
 ## Build something useful. Use the money to have fun and help others.
-I'll use the proceeds to fund my adventures and start an investment company which invests in both companies and basic research. 
-I will also start some kind of scholarship to help young people discover new possibilities.  
+I'm thinking a company here. I'll use the proceeds to fund my adventures and start an investment company which invests 
+in both companies and basic research. I will also start some kind of scholarship to help young people discover new heights
+for themselves.  
 
 - **Current Progress**: On the scholarship front I have a plan to set aside $10k 
 to help a young person (who couldn't afford it otherwise) get started in aviation. I think that would be 
