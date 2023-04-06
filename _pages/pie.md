@@ -11,7 +11,7 @@ related_posts:
 ---
 
 I think a lot about the things I would like to accomplish in my life and how I can be the kind
-of person who deserves them. At the deepest level health, peace of mind, indpendence of thought, 
+of person who deserves them. Health, peace of mind, indpendence of thought, 
 and loving relationships are most important to me. Those are daily projects. After that there are some 
 things I would really love to achieve. Some of these I'm much closer to than others. They aren't 
 perfect measures of what would lead to a great life, but it's useful to have something measurable. Reach out
@@ -20,7 +20,7 @@ if you've done any of these or want to try together.
 
 ## Finish my PhD and publish all of the projects I am currently working on
 
-- **Current Progress**: The Kiiking paper is written and nearly submitted. I need to redo polish some results for the snake project and the glider project. The coin project needs work.
+- **Current Progress**: The Kiiking paper is written and nearly submitted. I need to polish some results for the snake project and the glider project. The coin project needs work.
 
 
 - **Major obstacles**: Focus and competing timelines for the job search. There are also other obligations for the PhD not directly
@@ -39,7 +39,7 @@ related to producing results (e.g. writing a thesis).
 
 - **Timeline**: Spring/Summer 2024
 
-## Help build something meaningful and useful. Ideally making a lot of money in the process
+## Help build something meaningful and useful. Make a lot of money in the process
 I do have a number in mind. I'll use the proceeds to fund my adventures and start an investment company (sort of a mix between Venture Capital and the Simons Foundation). 
 Also start some kind of scholarship to help young people discover new possibilities.  
 
