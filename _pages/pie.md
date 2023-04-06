@@ -20,10 +20,10 @@ if you've done any of these or want to try together.
 
 ## Finish my PhD and publish all of the projects I am currently working on
 
-- **Current Progress**: The Kiiking paper is written and nearly submitted. I need to polish some results for the snake project and the glider project. The coin project needs work.
+- **Current Progress**: The Kiiking paper is written. I need to polish some results for the snake project and the glider project. The coin project needs work.
 
 
-- **Major obstacles**: Focus and competing timelines for the job search. There are also other obligations for the PhD not directly
+- **Major obstacles**: Focus. There are also other obligations for the PhD not directly
 related to producing results (e.g. writing a thesis).
 
 
@@ -34,22 +34,21 @@ related to producing results (e.g. writing a thesis).
 - **Current Progress**: I've biked about 1/10 of it so far. I think this is doable in the near term i.e. within a year or so.
 
 
-- **Major obstacles**: About 11,000 feet of elevation gain.
+- **Major obstacles**: About 11,000 feet of elevation gain. I really don't know what that will feel like.
 
 
 - **Timeline**: Spring/Summer 2024
 
-## Help build something meaningful and useful. Make a lot of money in the process
-I do have a number in mind. I'll use the proceeds to fund my adventures and start an investment company (sort of a mix between Venture Capital and the Simons Foundation). 
-Also start some kind of scholarship to help young people discover new possibilities.  
+## Build something useful. Use the money to have fun and help others.
+I'll use the proceeds to fund my adventures and start an investment company which invests in both companies and basic research. 
+I will also start some kind of scholarship to help young people discover new possibilities.  
 
 - **Current Progress**: On the scholarship front I have a plan to set aside $10k 
 to help a young person (who couldn't afford it otherwise) get started in aviation. I think that would be 
 meaningful and a good initial step in making all of this real. 
 
 
-- **Major obstacles**: Courage. Understanding myself and what the best path through 
-all of this is for me. Etc.
+- **Major obstacles**: Courage. Understanding myself and what the best path through all of this is for me.
 
 
 - **Timeline**: Join a startup or other group working on something meaningful (Spring/Summer 2023). Aviation scholarship (Winter 2023). 
