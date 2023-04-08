@@ -24,7 +24,7 @@ Some almost authentic rice Pilaf thanks to my friend Isa.
 I made the risotto
 {% include figure.html path="assets/img/risotto.jpeg" title="Risotto" class="img-fluid rounded z-depth-1" %}
 
-I'm trying to explore new kinds of music so I recently went to the Boston Symphony Orchestra.
+I'm experimenting with new kinds of music so I recently went to the Boston Symphony Orchestra.
 
 {% include figure.html path="assets/img/bso.jpeg" title="BSO" class="img-fluid rounded z-depth-1" %}
 
