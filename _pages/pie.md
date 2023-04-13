@@ -20,14 +20,14 @@ if you've done any of these or want to try together.
 
 ## Finish my PhD and publish all of the projects I am currently working on
 
-- **Current Progress**: The Kiiking paper is written. I need to polish some results for the snake project and the glider project. The coin project needs work.
+- **Current Progress**: The Kiiking paper is written. I need to polish some results for the snake project and the glider project.
 
 
 - **Major obstacles**: Focus. There are also other obligations for the PhD not directly
 related to producing results (e.g. writing a thesis).
 
 
-- **Timeline**: Kiiking paper (before Apr 15). Glider paper (before Apr 25). Snake paper (before May). Coin paper (end of May).
+- **Timeline**: Kiiking paper (before May). Glider paper (before May 25). Snake paper (before May 25).
 
 ## Bike [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm), from Dickey Ridge Visitor Center onwards, in a day
 
