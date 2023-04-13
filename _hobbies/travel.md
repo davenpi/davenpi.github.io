@@ -29,7 +29,7 @@ and me looking confused at a beach in Sagres, Portugal.
 
 {% include figure.html path="assets/img/sagres.JPG" title="Sagres promontory" class="img-fluid rounded z-depth-1" %}
 
-I like to visit the cities and just walk around all day. I just happen to have two pictures of me looking exasperated in the outdoors. It's not always like that.
+I like to visit cities and just walk around all day. I just happen to have two pictures of me looking exasperated in the outdoors. It's not always like that.
 
 
 Most of those trips were only for a few days, but I've spent fairly sizable periods of time in Berlin, Germany and Genoa, Italy.

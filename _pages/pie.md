@@ -1,7 +1,7 @@
 ---
 layout: page
-title: dreams
-permalink: /dreams/
+title: pie in the sky
+permalink: /pie/
 nav: True
 nav_order: 5
 description: some things I would love to do
@@ -41,10 +41,9 @@ climb.
 
 - **Timeline**: Spring/Summer 2024
 
-## Build something useful. Use the money to have fun and help others.
-I'm thinking a company here. I'll use the proceeds to fund my adventures and start an investment company which invests 
-in both companies and basic research. I will also start some kind of scholarship to help young people discover new heights
-for themselves.  
+## Build a business which does something useful and interesting. Use the money to have fun and help others.
+I'll use the proceeds to fund my adventures and start an investment company which invests 
+in both companies and basic research. I will also start some kind of scholarship to help young people discover new heights for themselves.  
 
 - **Current Progress**: On the scholarship front I have a plan to set aside $10k 
 to help a young person (who couldn't afford it otherwise) get started in aviation. I think that would be 
