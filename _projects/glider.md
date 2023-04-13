@@ -13,8 +13,7 @@ describes the forces acting on bodies in unpowered flight.
 
 ## The project
 
-My interest in aviation led me to want to include some flight research into my PhD. Much of my work is related to the control of 
-dynamical systems so coming up with a project wasn't too hard. This is what I came up with. 
+My interest in aviation inspired this project. 
 
 Suppose we have a model of a gliding object (i.e. the object can create no thrust). Can we include a way for it's shape to change and 
 use that shape change to try and land it at specific locations? That's the basic question. I thought this would be an interesting way 
@@ -25,8 +24,8 @@ I do theoretical work so there's no need to build anything yet. To study the que
 
 ### 1. Create a physical model
 We need a set of equations describing the glider and the forces exerted on it by gravity and the fluid it's moving in. 
-That's the physics/dynamical system part. I got the physical model from previous work my advisor did on the [evolution of flight](https://softmath.seas.harvard.edu/publication/planar-controlled-gliding-tumbling-and-descent/). 
-I will present and describe the equations in more detail within the next few days. Take a look at the referenced paper if you are eager 
+That's the physics/dynamical system part. I got the physical model from previous work my advisor did on the [evolution of flight](https://softmath.seas.harvard.edu/publication/planar-controlled-gliding-tumbling-and-descent/). The model is actually inspired by the behavior of falling cards.
+Take a look at the referenced paper if you are eager 
 to know more.  
 
 ### 2. Define what we can control and the performance objectives
@@ -43,4 +42,4 @@ develop control strategies which solve our task in the best way possible. The so
 ## Current status
 
 We have the model and the control problem defined. I've written the software and produced some results. I just need to add in a few
-suggestions from my advisor and write up the results. This paper should be out by May.
+suggestions from my advisor and write up the results. This paper should be out in May.

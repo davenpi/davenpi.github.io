@@ -11,8 +11,8 @@ related_posts:
 ---
 
 I think a lot about the things I would like to accomplish in my life and how I can be the kind
-of person who deserves them. Health, peace of mind, indpendence of thought, 
-and loving relationships are most important to me. Those are daily projects. After that there are some 
+of person who deserves them. Of course there are the daily projects: health, peace of mind, indpendence of thought, 
+and loving relationships. After that there are some 
 things I would really love to achieve. Some of these I'm much closer to than others. They aren't 
 perfect measures of what would lead to a great life, but it's useful to have something measurable. Reach out
 if you've done any of these or want to try together.
@@ -23,8 +23,7 @@ if you've done any of these or want to try together.
 - **Current Progress**: The Kiiking paper is written. I need to polish some results for the snake project and the glider project.
 
 
-- **Major obstacles**: Focus. There are also other obligations for the PhD not directly
-related to producing results (e.g. writing a thesis).
+- **Major obstacles**: Focus.
 
 
 - **Timeline**: Kiiking paper (before May). Glider paper (before May 25). Snake paper (before May 25).
@@ -35,11 +34,11 @@ related to producing results (e.g. writing a thesis).
 at Dickey Ridge makes the trip much easier and more beautiful. The first few miles before that have no views and are a treacherous
 climb.
 
-
 - **Major obstacles**: About 9,000 feet of elevation gain. I really don't know what that will feel like.
 
 
 - **Timeline**: Spring/Summer 2024
+
 
 ## Build a business which does something useful and interesting. Use the money to have fun and help others.
 I'll use the proceeds to fund my adventures and start an investment company which invests 
@@ -60,8 +59,7 @@ My own thing/a thing I own a big piece of (Before 2025). The whole shebang (Hard
 [Earthrounders](https://www.earthrounders.com/index.php) are a group of pilots who have flown all the way around the 
 world in a light aircraft.
 
-- **Current Progress**: Have solo'd three times. I have a pilot friend who says he
-is willing to do it together.
+- **Current Progress**: Have solo'd four times. I have a pilot friend who says he is willing to do it together.
 
 
 - **Major obstacles**: Money for an airplane. Time off. An instrument rating.
