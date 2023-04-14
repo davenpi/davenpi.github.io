@@ -21,7 +21,7 @@ To study the question we just need to do three things.
 
 ### 1. Create a physical model
 We need to create a physical model of the combined athlete/swing system. That part is easy and we just modeled it as
-a pendulum of variable length. Of course this is dead simple so we also added in some extra bells and whistles related
+a pendulum of variable length. We added in some extra bells and whistles related
 to the fact that a person has a limited amount power they can produce.
 
 ### 2. Define what we can control and the performance objectives
@@ -37,10 +37,9 @@ strategies which solve the task optimally.
 
 I did some video analysis of real Kiiking to give some experimental weight to the project. I also developed control
 strategies using techniques from Deep Reinforcement Learning. The Kiiking problem is simple enough to solve without
-the need for something as comple as Deep Reinforcement Learning (my colleague developed a solution using more traditional
-methods), but we wanted to use it for a two main reasons. First it allowed us to develop a feedback based control and
-second, since we can solve it with traditional means, we got a chance to compare new methods and their performance to old
+the need for something as complex as Deep Reinforcement Learning (my colleague developed a solution using more traditional
+methods), but we wanted to use it for a two main reasons. First it allowed us to develop a feedback based control.
+Second, since we can solve it with traditional means, we got a chance to compare new methods and their performance to old
 ones. 
 
-All the work for this project is done. I think my collaborator is writing the last few sentences of the abstract now. 
-It should be out in the coming week or so.
+All the work for this project is done and it is written up. It should be out in the coming week or so.

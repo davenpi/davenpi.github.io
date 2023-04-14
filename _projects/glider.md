@@ -36,10 +36,10 @@ Some mixture of the two? This part of the problem is what I refer to as the cont
 ### 3. Simulate and analyze results
 The equations which describe the glider are too complicated to solve by hand. As a result we need to write software which
 simulates the system. Once we have the physics simulated we need to combine that with optimization software to
-develop control strategies which solve our task in the best way possible. The software for the project is available on my 
+develop control strategies. The software for the project is available on my 
 [github](https://github.com/davenpi/glider).
 
 ## Current status
 
-We have the model and the control problem defined. I've written the software and produced some results. I just need to add in a few
-suggestions from my advisor and write up the results. This paper should be out in May.
+We have the model and the control problem defined. I've written the software and produced results for a range of parameter values. I need to write up the results and 
+likely incorporate some more feedback from my advisor. This paper should be out in May.
