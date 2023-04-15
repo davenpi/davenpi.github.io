@@ -31,13 +31,12 @@ if you've done any of these or want to try together.
 ## Bike [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm), from Dickey Ridge Visitor Center onwards, in a day
 
 - **Current Progress**: I've biked about 1/10 of it so far. I think this is doable in the near term i.e. within a year or so. Starting
-at Dickey Ridge makes the trip much easier and more beautiful. The first few miles before that have no views and are a treacherous
-climb.
+at Dickey Ridge makes the trip much easier and more beautiful. The first few miles before that have no views and are a treacherous climb.
 
 - **Major obstacles**: About 9,000 feet of elevation gain. I really don't know what that will feel like.
 
 
-- **Timeline**: Spring/Summer 2024
+- **Timeline**: A few attempts summer 2023. At the latest Spring/Summer 2024
 
 
 ## Build a business which does something useful and interesting. Use the money to have fun and help others.
@@ -52,8 +51,7 @@ meaningful and a good initial step in making all of this real.
 - **Major obstacles**: Courage. Understanding myself and what the best path through all of this is for me.
 
 
-- **Timeline**: Join a startup or other group working on something meaningful (Spring/Summer 2023). Aviation scholarship (Winter 2023). 
-My own thing/a thing I own a big piece of (Before 2025). The whole shebang (Hard to estimate. Before 2035).
+- **Timeline**: Join a startup or other group working on something meaningful (Spring/Summer 2023). Aviation scholarship (Winter 2023). My own thing/a thing I own a big piece of (next couple of years). The whole shebang (Hard to estimate. Before 2035).
 
 ## Become an Earthrounder
 [Earthrounders](https://www.earthrounders.com/index.php) are a group of pilots who have flown all the way around the 
