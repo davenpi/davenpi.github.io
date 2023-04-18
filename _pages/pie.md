@@ -28,15 +28,15 @@ if you've done any of these or want to try together.
 
 - **Timeline**: Thesis defense (May 2). Kiiking paper (before May 25). Glider paper (before May 25). Snake paper (before May 25).
 
-## Bike [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm), from Dickey Ridge Visitor Center onwards, in a day
+## Bike all of [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) in a weekend.
 
-- **Current Progress**: I've biked about 1/10 of it so far. I think this is doable in the near term i.e. within a year or so. Starting
-at Dickey Ridge makes the trip much easier and more beautiful. The first few miles before that have no views and are a treacherous climb.
+- **Current Progress**: I've biked about 1/10 of it so far. I think this is doable in the near term i.e. within a year or so. Doing the whole thing in a day would be tough but I'm not sure what carrying camping gear would be like
+for an overnight stay. I'll try this out soon.
 
-- **Major obstacles**: About 9,000 feet of elevation gain. I really don't know what that will feel like.
+- **Major obstacles**: About 11,000 feet of elevation gain. Finding a partner in crime.
 
 
-- **Timeline**: A few attempts summer 2023. At the latest Spring/Summer 2024
+- **Timeline**: A few attempts summer 2023. At the latest Spring/Summer 2024.
 
 
 ## Build a business which does something useful and interesting. Use the money to have fun and help others.
