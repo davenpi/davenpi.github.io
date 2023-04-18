@@ -26,7 +26,7 @@ if you've done any of these or want to try together.
 - **Major obstacles**: Focus.
 
 
-- **Timeline**: Kiiking paper (before May). Glider paper (before May 25). Snake paper (before May 25).
+- **Timeline**: Thesis defense (May 2). Kiiking paper (before May 25). Glider paper (before May 25). Snake paper (before May 25).
 
 ## Bike [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm), from Dickey Ridge Visitor Center onwards, in a day
 
@@ -40,8 +40,8 @@ at Dickey Ridge makes the trip much easier and more beautiful. The first few mil
 
 
 ## Build a business which does something useful and interesting. Use the money to have fun and help others.
-I'll use the proceeds to fund my adventures and start an investment company which invests 
-in both companies and basic research. I will also start some kind of scholarship to help young people discover new heights for themselves.  
+I'll use the proceeds to fund my adventures, start an angel investment/venture capital company, and start a nonprofit
+which invests in basic research. I'll also start some kind of scholarship to help young people discover new possibilities for themselves.  
 
 - **Current Progress**: On the scholarship front I have a plan to set aside $10k 
 to help a young person (who couldn't afford it otherwise) get started in aviation. I think that would be 
@@ -53,9 +53,9 @@ meaningful and a good initial step in making all of this real.
 
 - **Timeline**: Join a startup or other group working on something meaningful (Spring/Summer 2023). Aviation scholarship (Winter 2023). My own thing/a thing I own a big piece of (next couple of years). The whole shebang (Hard to estimate. Before 2035).
 
-## Become an Earthrounder
+## Buy a plane and fly around the world. Eventually become an Earthrounder
 [Earthrounders](https://www.earthrounders.com/index.php) are a group of pilots who have flown all the way around the 
-world in a light aircraft.
+world in a light aircraft (less than 15,000 lbs).
 
 - **Current Progress**: Have solo'd four times. I have a pilot friend who says he is willing to do it together.
 
@@ -63,6 +63,6 @@ world in a light aircraft.
 - **Major obstacles**: Money for an airplane. Time off. An instrument rating.
 
 
-- **Timeline**: Private license (Spring/Summer 2023). Instrument rating (Early 2025). Buy a plane and do the trip (Hard to estimate. Before 2035).
+- **Timeline**: Private license (Spring/Summer 2023). Instrument rating (Mid/Late 2024). Buy a plane (2026-2027). Do the trip around the world (Hard to estimate. Before 2035).
 
 I will update this as I think of more...
