@@ -43,7 +43,7 @@ for an overnight stay. I'll try this out soon.
 I'll use the proceeds to fund my adventures, start an angel investment/venture capital company, and start a nonprofit
 which invests in basic research. I'll also start some kind of scholarship to help young people discover new possibilities for themselves.  
 
-- **Current Progress**: On the scholarship front I have a plan to set aside $10k 
+- **Current Progress**: On the scholarship front I have a plan to set aside $5-10k 
 to help a young person (who couldn't afford it otherwise) get started in aviation. I think that would be 
 meaningful and a good initial step in making all of this real. 
 
