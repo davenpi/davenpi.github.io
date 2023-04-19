@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cool things
+title: cool stuff
 permalink: /cool/
 description: Some cool and inspiring things 
 nav: true
@@ -10,4 +10,6 @@ horizontal: false
 ---
 
 
--(Barrington Irving)[https://education.nationalgeographic.org/resource/real-world-geography-barrington-irving/]
+- (Barrington Irving)[https://education.nationalgeographic.org/resource/real-world-geography-barrington-irving/]
+- (Voyager)[https://www.youtube.com/watch?v=TunNolO9J4U]
+- (Glas)[https://vimeo.com/160106895]
