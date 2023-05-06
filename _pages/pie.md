@@ -20,7 +20,7 @@ if you've done any of these or want to try together.
 
 ## Finish my PhD and publish all of the projects I am currently working on
 
-- **Current Progress**: The Kiiking paper is written. I need to polish some results for the snake project and the glider project.
+- **Current Progress**: Defended thesis. The Kiiking paper is written. I need to polish some results for the snake project and the glider project.
 
 
 - **Major obstacles**: Focus.
