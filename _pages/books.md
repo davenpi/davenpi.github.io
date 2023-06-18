@@ -10,8 +10,7 @@ categories:
 related_posts: 
 ---
 
-Here are some books/essays I enjoyed.
-
+- Code Breaker by Walter Isaacson
 - Mountains Beyond Mountains by Tracy Kidder
 - The Visual Display of Quantitative Information by Edward Tufte
 - The art of doing science and engineering by Richard Hamming
