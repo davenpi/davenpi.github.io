@@ -22,7 +22,7 @@
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 
     <!-- Code Syntax Highlighting -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
@@ -122,8 +122,8 @@
           <article>
             <p>Then there is everything else.</p>
 
-<p>Poker is a fun occasionally. I have played in Vegas. I’m not great and I play really tight so it was a grind.
-This picture is not that.</p>
+<!-- Poker is a fun occasionally. I have played in Vegas. I'm not great and I play really tight so it was a grind.
+This picture is not that. -->
 <figure>
 
   <picture>
@@ -140,7 +140,7 @@ This picture is not that.</p>
 
 </figure>
 
-<p>Cooking is great. Particularly with others. One trick is to get your friends to do most of the cooking ;)</p>
+<!-- Cooking is great. Particularly with others. One trick is to get your friends to do most of the cooking ;) -->
 
 <p>Here’s a bunch of Persian food. My friend Sepehr did most of the cooking.</p>
 <figure>
@@ -159,41 +159,51 @@ This picture is not that.</p>
 
 </figure>
 
-<p>Some almost authentic rice Pilaf thanks to my friend Isa.</p>
+<!-- Some almost authentic rice Pilaf thanks to my friend Isa.
 <figure>
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/pilaf-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/pilaf-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/pilaf-1400.webp"></source>
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 480px)" 
+        srcset="/assets/img/pilaf-480.webp"
+      />
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 800px)" 
+        srcset="/assets/img/pilaf-800.webp"
+      />
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 1400px)" 
+        srcset="/assets/img/pilaf-1400.webp"
+      />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/pilaf.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Pilaf" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;img 
+  src="/assets/img/pilaf.jpeg"
+  class="img-fluid rounded z-depth-1"  
+  width="auto" 
+  height="auto" 
+   
+   
+   
+   
+   
+  title="Pilaf" 
+  
+  onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+/&gt;
+</code></pre></div></div>
 
-  </picture>
+<p>&lt;/picture&gt;</p>
 
-</figure>
+<p>&lt;/figure&gt;
+ –&gt;</p>
 
-<p>I made the risotto</p>
-<figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/risotto-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/risotto-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/risotto-1400.webp"></source>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/risotto.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Risotto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-<p>I’m experimenting with new kinds of music so I recently went to the Boston Symphony Orchestra.</p>
+<!-- I'm experimenting with new kinds of music so I recently went to the Boston Symphony Orchestra. -->
 
 <figure>
 
@@ -211,10 +221,10 @@ This picture is not that.</p>
 
 </figure>
 
-<p>I love movies. Harvard has a Film Archive where they show classic films. The best movie I saw there was Amarcord by Fellini.</p>
+<!-- I love movies. Harvard has a Film Archive where they show classic films. The best movie I saw there was Amarcord by Fellini.
 
-<p>Dancing is fun. I’m still a shy and somewhat reserved dancer but I’m getting better! 
-Bachata/salsa social dance nights at Havana night club in Cambridge are a good time.</p>
+Dancing is fun. I'm still a shy and somewhat reserved dancer but I'm getting better! 
+Bachata/salsa social dance nights at Havana night club in Cambridge are a good time. -->
 
 <p>What else should I try?</p>
 
@@ -227,7 +237,7 @@ Bachata/salsa social dance nights at Havana night club in Cambridge are a good t
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2023 Ian C. Davenport. Last updated: May 06, 2023.
+        © Copyright 2023 Ian C. Davenport. Last updated: June 18, 2023.
       </div>
     </footer>
 
