@@ -14,8 +14,7 @@ Here's a few crazy and not so crazy things I'd love to do. Reach out if you want
 
 
 - [X] Finish my PhD **Timeline**:  May 25, 2023. 
-    ![recieving my diploma](/assets/img/receiving_diploma.jpg)
-        <!-- {% include figure.html path="assets/img/receiving_diploma.jpg" title="Me receiving my diploma" class="img-fluid rounded z-depth-1" %} -->
+    <img alt="receiving my diploma" src="/assets/img/receiving_diploma.jpg"  width="600" height="300">
 - [ ] Run a 10k in less than an hour. **Timeline**: Spring 2024
 - [ ] Bike all of [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) in a weekend. **Timeline**: Spring 2024.
 - [ ] Buy a plane and fly around the world. Eventually become an [Earthrounder](https://www.earthrounders.com/index.php). **Timeline**: Private license Summer 2023. Buy a plane 2028. Do the trip before 2035.
